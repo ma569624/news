@@ -2390,7 +2390,7 @@ label {
       .post__small-text h4:hover {
         color: #f70d28; }
       .post__small-text h4.title-13 {
-        font-size: 13px; }
+        font-size: 17px; }
       .post__small-text h4.title-14 {
         font-size: 14px; }
       .post__small-text h4.title-16 {
@@ -2486,7 +2486,7 @@ label {
   color: #f70d28; }
 
 .content-pad {
-  padding: 30px; }
+  padding: 10px; }
 
 .border {
   border: 1px solid #e9e9e9; }
