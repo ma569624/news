@@ -25,7 +25,7 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700,800");
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .container {
-    max-width: 1200px; } }
+    max-width: 1050px; } }
 
 /* 1. Theme default css */
 body {
@@ -120,7 +120,7 @@ h3 {
   font-size: 28px; }
 
 h4 {
-  font-size: 16px; }
+  font-size: 22px; }
 
 h5 {
   font-size: 18px; }
@@ -1267,7 +1267,7 @@ label {
       bottom: 20px; } }
 
 .col-20 {
-  width: 30%; }
+  width: 20%; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .col-20 {
       width: 25%; } }
@@ -1279,7 +1279,7 @@ label {
       width: 100%; } }
 
 .col-40 {
-  width: 70%; }
+  width: 60%; }
   @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .col-40 {
       width: 50%; } }
@@ -1522,7 +1522,7 @@ label {
   position: relative; }
   .header__menu ul li a {
     color: #ffffff;
-    padding: 15px 12px;
+    padding: 20px 18px;
     line-height: 1;
     font-size: 15px;
     font-family: "Poppins", sans-serif;
