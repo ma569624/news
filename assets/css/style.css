@@ -3099,7 +3099,7 @@ blockquote {
   font-size: 13px;
   border-radius: 5px;
   margin-right: 10px;
-  margin-bottom: 10px; }
+  margin-bottom: 5px; }
   .footer-social a.facebook {
     background: #1f3d7c; }
   .footer-social a.twitter {
@@ -3134,7 +3134,8 @@ blockquote {
       color: #ffffff; }
 
 .copyright-area {
-  border-top: 1px solid #ebe5e5; }
+  border-top: 1px solid #ebe5e5;
+  border-bottom: 1.7px solid #ebe5e5; }
 
 .copyright p {
   margin: 0;
